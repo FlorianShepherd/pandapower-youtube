@@ -1,4 +1,4 @@
-# Tutorial for this video: https://www.youtube.com/watch?v=EA2pytl3MKg&t=5s
+# Tutorial for this video: https://www.youtube.com/watch?v=EA2pytl3MKg
 import pandapower as pp
 import pandapower.plotting as pplt
 
