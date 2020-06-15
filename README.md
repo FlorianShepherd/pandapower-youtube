@@ -11,4 +11,4 @@ For more information on pandapower visit our official website: https://www.panda
 ## List of Tutorials:
  
 ### Beginner
-* Simple Minimal Example: :page_facing_up: [Code](scripts/simple_minmal_example.py) :cinema: [Youtube](https://www.youtube.com/watch?v=9qbrt_uPkJw) 
+* Simple Minimal Example: [:page_facing_up: Code](scripts/simple_minmal_example.py) [:cinema: Youtube](https://www.youtube.com/watch?v=9qbrt_uPkJw) 
