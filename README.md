@@ -10,6 +10,12 @@ https://github.com/e2nIEE/pandapower
 For more information on pandapower visit our official website: https://www.pandapower.org/
 
 ## List of Tutorials:
+
+### Introduction
+* Introduction: [:movie_camera: Youtube](https://www.youtube.com/watch?v=Ug7QWlRSrlA)
+* Motivation: [:movie_camera: Youtube](https://www.youtube.com/watch?v=M6jukZyXp7U)
+* Installation: [:movie_camera: Youtube](https://www.youtube.com/watch?v=Y6YXD9bEzRc)
+
  
 ### Beginner
 * Minimal Example: [:page_facing_up: Code](scripts/simple_minmal_example.py) [:movie_camera: Youtube](https://www.youtube.com/watch?v=9qbrt_uPkJw)
